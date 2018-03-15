@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 namespace kouosl\sample\models;
+=======
+namespace kouosl\menu\models;
+>>>>>>> origin/master
 
 use kouosl\sample\Module;
 use Yii;
