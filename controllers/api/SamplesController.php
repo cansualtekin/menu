@@ -1,6 +1,6 @@
 <?php
 
-namespace kouosl\sample\controllers\api;
+namespace kouosl\menu\controllers\api;
 
 use kouosl\sample\models\Samples;
 use Yii;
