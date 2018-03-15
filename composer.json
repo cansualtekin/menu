@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD
-    "name": "kouosl/sample",
-    "description": "Yii2 KouOsl sample Module Integration",
-    "type": "yii2-extension",
-    "keywords": ["yii2", "yii 2", "samples", "sample", "module", "modules"],
-=======
     "name": "kouosl/menu",
     "description": "Yii2 KouOsl menu Module Integration",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "samples", "menu", "module", "modules"],
->>>>>>> origin/master
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -19,11 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-<<<<<<< HEAD
-            "kouosl\\sample\\": ""
-=======
             "kouosl\\menu\\": ""
->>>>>>> origin/master
         }
     }
 }

@@ -1,10 +1,6 @@
 <?php
 
-<<<<<<< HEAD
-namespace kouosl\sample\controllers\console;
-=======
 namespace kouosl\menu\controllers\console;
->>>>>>> origin/master
 
 
 /**
